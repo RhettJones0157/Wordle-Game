@@ -1,5 +1,6 @@
 import random
 wordlelist = ['world', 'femur', 'crazy', 'quail', 'snake', 'churn', 'forge', 'lower', 'pause', 'trail', 'under', 'grant', 'store', 'feral', 'dunes', 'tuple', 'scrap', 'match', 'angry', 'gloss', 'chump', 'drunk', 'viral', 'frack', 'prime', 'milky', 'after', 'shell']
+print("hello")
 randomword = random.randint(0, 14)
 word = wordlelist[randomword]
 wordle = list(word)
